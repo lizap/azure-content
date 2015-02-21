@@ -1,7 +1,7 @@
 
 <properties 
-    pageTitle="RemoteApp PowerShell and SDK"
-    description="Learn about the PowerShell module and SDK for RemoteApp." 
+    pageTitle="Windows PowerShell and SDK for RemoteApp"
+    description="Learn about the Windows PowerShell module and SDK for RemoteApp." 
     services="remoteapp" 
     solutions="" documentationCenter="" 
     authors="lizap" 
@@ -18,7 +18,7 @@
 
 
 
-# Azure RemoteApp PowerShell modules and SDK
+# Windows PowerShell and SDK for RemoteApp
 
 **Coming soon!**
 
